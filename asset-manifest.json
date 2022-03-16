@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0f034baf.css",
+    "main.js": "/static/js/main.ac054fb5.js",
+    "static/media/foguete-2.gif": "/static/media/foguete-2.096d7a95ad45fb373c40.gif",
+    "static/media/foguete.png": "/static/media/foguete.e03b41b409fc40e57804.png",
+    "index.html": "/index.html",
+    "main.0f034baf.css.map": "/static/css/main.0f034baf.css.map",
+    "main.ac054fb5.js.map": "/static/js/main.ac054fb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f034baf.css",
+    "static/js/main.ac054fb5.js"
+  ]
+}
